@@ -13,5 +13,5 @@
   ],
   "license": "MIT",
   "summary": "Dub siren with tape echo: siren and zap modes, LFO, filter and ping-pong delay on one page mirroring two banks of eight Q-Links.",
-  "screenshot": "https://raw.githubusercontent.com/no3z/mpc-dubsiren/v2.0.0/resources/preview.png"
+  "screenshot": "https://raw.githubusercontent.com/no3z/mpc-dubsiren/v2.1.0/resources/preview.png"
 }
